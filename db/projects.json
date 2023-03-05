@@ -9,11 +9,6 @@
         "link": "https://meteox.vercel.app",
         "pic": "/meteox.png"
     },
-    "portfolio": {
-        "name": "portfolio",
-        "link": "https://azizch.vercel.app",
-        "pic": "/azizch.png"
-    },
     "mcandco": {
         "name": "mcandco",
         "link": "https://mcandco.vercel.app",

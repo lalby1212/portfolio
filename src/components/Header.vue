@@ -12,7 +12,7 @@ import ToggleMode from './ToggleMode.vue'
 
           <div class="flex-1 md:flex md:items-center md:gap-12">
             <a class="block hover:scale-110 duration-300" href="/">
-              <span class="font-bold text-2xl">Aziz<span class="font-semibold">CH.</span></span>
+              <span class="font-bold text-2xl">Deoxys</span>
             </a>
           </div>
 
